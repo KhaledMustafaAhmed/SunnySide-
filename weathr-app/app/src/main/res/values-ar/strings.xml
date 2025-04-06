@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="settings">الإعدادات</string>
+    <string name="language">اللغة</string>
+    <string name="english">الإنجليزية</string>
+    <string name="arabic">العربية</string>
+    <string name="temperature_unit">وحدة الحرارة</string>
+    <string name="kelvin_k">كلفن (ك°)</string>
+    <string name="celsius_c">مئوية (س°)</string>
+    <string name="fahrenheit_f">فهرنهايت (ف°)</string>
+    <string name="wind_speed_unit">وحدة سرعة الرياح</string>
+    <string name="meters_second_m_s">متر/ثانية (م/ث)</string>
+    <string name="miles_hour_mph">ميل/ساعة (ميل/س)</string>
+    <string name="use_system_settings">استخدام إعدادات النظام</string>
+    <string name="off">إيقاف</string>
+    <string name="on">تشغيل</string>
+    <string name="dark_mode">الوضع المظلم</string>
+
+    <!-- Thunderstorm -->
+    <string name="thunderstorm_light_rain">عاصفة رعدية مع أمطار خفيفة</string>
+    <string name="thunderstorm_rain">عاصفة رعدية مع أمطار</string>
+    <string name="thunderstorm_heavy_rain">عاصفة رعدية مع أمطار غزيرة</string>
+    <string name="thunderstorm_light">عاصفة رعدية خفيفة</string>
+    <string name="thunderstorm">عاصفة رعدية</string>
+    <string name="thunderstorm_heavy">عاصفة رعدية شديدة</string>
+    <string name="thunderstorm_ragged">عاصفة رعدية متفرقة</string>
+    <string name="thunderstorm_light_drizzle">عاصفة رعدية مع رذاذ خفيف</string>
+    <string name="thunderstorm_drizzle">عاصفة رعدية مع رذاذ</string>
+    <string name="thunderstorm_heavy_drizzle">عاصفة رعدية مع رذاذ غزير</string>
+
+    <!-- Drizzle -->
+    <string name="drizzle_light">رذاذ خفيف</string>
+    <string name="drizzle">رذاذ</string>
+    <string name="drizzle_heavy">رذاذ غزير</string>
+    <string name="drizzle_light_rain">رذاذ خفيف مع أمطار</string>
+    <string name="drizzle_rain">رذاذ مطر</string>
+    <string name="drizzle_heavy_rain">رذاذ مطر غزير</string>
+    <string name="drizzle_shower_rain">أمطار غزيرة مع رذاذ</string>
+    <string name="drizzle_heavy_shower_rain">أمطار غزيرة جداً مع رذاذ</string>
+    <string name="drizzle_shower">رذاذ متفرق</string>
+
+    <!-- Rain -->
+    <string name="rain_light">أمطار خفيفة</string>
+    <string name="rain_moderate">أمطار متوسطة</string>
+    <string name="rain_heavy">أمطار غزيرة</string>
+    <string name="rain_very_heavy">أمطار غزيرة جداً</string>
+    <string name="rain_extreme">أمطار شديدة</string>
+    <string name="rain_freezing">أمطار متجمدة</string>
+    <string name="rain_shower_light">رذاذ مطر خفيف</string>
+    <string name="rain_shower">رذاذ مطر</string>
+    <string name="rain_shower_heavy">رذاذ مطر غزير</string>
+    <string name="rain_shower_ragged">رذاذ مطر متفرق</string>
+
+    <!-- Snow -->
+    <string name="snow_light">ثلوج خفيفة</string>
+    <string name="snow">ثلوج</string>
+    <string name="snow_heavy">ثلوج غزيرة</string>
+    <string name="sleet">ثلوج ممزوجة بمطر</string>
+    <string name="sleet_shower_light">رذاذ ثلج خفيف</string>
+    <string name="sleet_shower">رذاذ ثلج</string>
+    <string name="rain_snow_light">أمطار خفيفة مع ثلوج</string>
+    <string name="rain_snow">أمطار مع ثلوج</string>
+    <string name="snow_shower_light">رذاذ ثلج خفيف</string>
+    <string name="snow_shower">رذاذ ثلج</string>
+    <string name="snow_shower_heavy">رذاذ ثلج غزير</string>
+
+    <!-- Atmosphere -->
+    <string name="mist">ضباب</string>
+    <string name="smoke">دخان</string>
+    <string name="haze">ضباب خفيف</string>
+    <string name="dust_whirls">عواصف ترابية</string>
+    <string name="fog">ضباب كثيف</string>
+    <string name="sand">عواصف رملية</string>
+    <string name="dust">غبار</string>
+    <string name="volcanic_ash">رماد بركاني</string>
+    <string name="squalls">عواصف مفاجئة</string>
+    <string name="tornado">إعصار</string>
+
+    <!-- Clear -->
+    <string name="clear_sky">سماء صافية</string>
+
+    <!-- Clouds -->
+    <string name="clouds_few">قليل من الغيوم</string>
+    <string name="clouds_scattered">غيوم متفرقة</string>
+    <string name="clouds_broken">غيوم كثيفة</string>
+    <string name="clouds_overcast">غيوم تغطي السماء</string>
+
+    <!-- Default -->
+    <string name="weather_unknown">حالة جوية غير معروفة</string>
+
+    <string name="c">س°</string>
+    <string name="_7_day_forecast">تنبؤ الطقس لـ 7 أيام</string>
+
+    <string name="humidity">الرطوبة</string>
+    <string name="pressure">الضغط</string>
+    <string name="wind_speed">سرعة الرياح</string>
+    <string name="clouds">السحاب</string>
+
+    <string name="favourites">المفضلة</string>
+    <string name="add_place">إضافة مكان</string>
+    <string name="empty_favorites_title">لا توجد مفضلات حتى الآن</string>
+    <string name="empty_favorites_subtitle">أضف الأماكن المفضلة لديك لرؤيتها هنا</string>
+
+    <string name="delete_place">حذف المكان</string>
+    <string name="do_you_want_to_delete">هل تريد حذف %1$s؟</string>
+</resources>

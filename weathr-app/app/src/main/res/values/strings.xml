@@ -1,0 +1,112 @@
+<resources>
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyACknaVvXwj6TEcJeADVCmPxmaJ_qY7HD8</string>
+    <string name="app_name" translatable="false">Sunny</string>
+    <string name="settings">Settings</string>
+    <string name="language">Language</string>
+    <string name="english">English</string>
+    <string name="arabic">Arabic</string>
+    <string name="temperature_unit">Temperature Unit</string>
+    <string name="kelvin_k">Kelvin (K°)</string>
+    <string name="celsius_c">Celsius (C°)</string>
+    <string name="fahrenheit_f">Fahrenheit (F°)</string>
+    <string name="wind_speed_unit">Wind Speed Unit</string>
+    <string name="meters_second_m_s">Meters/Second (m/s)</string>
+    <string name="miles_hour_mph">Miles/Hour (mph)</string>
+    <string name="use_system_settings">Use system settings</string>
+    <string name="off">Off</string>
+    <string name="on">On</string>
+    <string name="dark_mode">Dark mode</string>
+
+    <!-- Thunderstorm -->
+    <string name="thunderstorm_light_rain">Thunderstorm with light rain</string>
+    <string name="thunderstorm_rain">Thunderstorm with rain</string>
+    <string name="thunderstorm_heavy_rain">Thunderstorm with heavy rain</string>
+    <string name="thunderstorm_light">Light thunderstorm</string>
+    <string name="thunderstorm">Thunderstorm</string>
+    <string name="thunderstorm_heavy">Heavy thunderstorm</string>
+    <string name="thunderstorm_ragged">Ragged thunderstorm</string>
+    <string name="thunderstorm_light_drizzle">Thunderstorm with light drizzle</string>
+    <string name="thunderstorm_drizzle">Thunderstorm with drizzle</string>
+    <string name="thunderstorm_heavy_drizzle">Thunderstorm with heavy drizzle</string>
+
+    <!-- Drizzle -->
+    <string name="drizzle_light">Light intensity drizzle</string>
+    <string name="drizzle">Drizzle</string>
+    <string name="drizzle_heavy">Heavy intensity drizzle</string>
+    <string name="drizzle_light_rain">Light intensity drizzle rain</string>
+    <string name="drizzle_rain">Drizzle rain</string>
+    <string name="drizzle_heavy_rain">Heavy intensity drizzle rain</string>
+    <string name="drizzle_shower_rain">Shower rain and drizzle</string>
+    <string name="drizzle_heavy_shower_rain">Heavy shower rain and drizzle</string>
+    <string name="drizzle_shower">Shower drizzle</string>
+
+    <!-- Rain -->
+    <string name="rain_light">Light rain</string>
+    <string name="rain_moderate">Moderate rain</string>
+    <string name="rain_heavy">Heavy intensity rain</string>
+    <string name="rain_very_heavy">Very heavy rain</string>
+    <string name="rain_extreme">Extreme rain</string>
+    <string name="rain_freezing">Freezing rain</string>
+    <string name="rain_shower_light">Light intensity shower rain</string>
+    <string name="rain_shower">Shower rain</string>
+    <string name="rain_shower_heavy">Heavy intensity shower rain</string>
+    <string name="rain_shower_ragged">Ragged shower rain</string>
+
+    <!-- Snow -->
+    <string name="snow_light">Light snow</string>
+    <string name="snow">Snow</string>
+    <string name="snow_heavy">Heavy snow</string>
+    <string name="sleet">Sleet</string>
+    <string name="sleet_shower_light">Light shower sleet</string>
+    <string name="sleet_shower">Shower sleet</string>
+    <string name="rain_snow_light">Light rain and snow</string>
+    <string name="rain_snow">Rain and snow</string>
+    <string name="snow_shower_light">Light shower snow</string>
+    <string name="snow_shower">Shower snow</string>
+    <string name="snow_shower_heavy">Heavy shower snow</string>
+
+    <!-- Atmosphere -->
+    <string name="mist">Mist</string>
+    <string name="smoke">Smoke</string>
+    <string name="haze">Haze</string>
+    <string name="dust_whirls">Sand/dust whirls</string>
+    <string name="fog">Fog</string>
+    <string name="sand">Sand</string>
+    <string name="dust">Dust</string>
+    <string name="volcanic_ash">Volcanic ash</string>
+    <string name="squalls">Squalls</string>
+    <string name="tornado">Tornado</string>
+
+    <!-- Clear -->
+    <string name="clear_sky">Clear sky</string>
+
+    <!-- Clouds -->
+    <string name="clouds_few">Few clouds</string>
+    <string name="clouds_scattered">Scattered clouds</string>
+    <string name="clouds_broken">Broken clouds</string>
+    <string name="clouds_overcast">Overcast clouds</string>
+
+    <!-- Default -->
+    <string name="weather_unknown">Unknown weather condition</string>
+    <string name="_7_day_forecast">7-DAY FORECAST</string>
+    <string name="c">°C</string>
+    <string name="f">°F</string>
+    <string name="k">K</string>
+    <string name="humidity">Humidity</string>
+    <string name="pressure">Pressure</string>
+    <string name="wind_speed">Wind Speed</string>
+    <string name="clouds">Clouds</string>
+    <string name="favourites">Favourites</string>
+    <string name="add_place">Add Place</string>
+    <string name="empty_favorites_title">No Favorites Yet</string>
+    <string name="empty_favorites_subtitle">Add your favorite places to see them here</string>
+    <string name="delete_place">Delete Place</string>
+    <string name="do_you_want_to_delete">Do you want to delete %1$s?</string>
+    <string name="alarm">Alarm</string>
+    <string name="add_alarm">Add Alarm</string>
+    <string name="search_for_places">Search for places...</string>
+    <string name="hpd">%1$s hpd</string>
+    <string name="m_s">%1$s m/s</string>
+
+
+</resources>
